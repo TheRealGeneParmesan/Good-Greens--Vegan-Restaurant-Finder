@@ -46,7 +46,5 @@ Polyfill: https://polyfill.io/v3/api/
 
 ## Site
 
-Deployed Site: https://shavanapuchta.github.io/good-greens-project-1/
-GitHub URL: https://github.com/shavanapuchta/good-greens-project-1
-
-
+Deployed Site: https://www.togoodgreens.com/
+GitHub URL: https://github.com/TheRealGeneParmesan/Good-Greens--Vegan-Restaurant-Finder
